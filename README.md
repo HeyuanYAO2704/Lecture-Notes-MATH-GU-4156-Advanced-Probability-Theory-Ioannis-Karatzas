@@ -11,10 +11,10 @@
  
  Applications: Optimal Filtering and Control. Relative Entropy and its dissipation, Fisher information, Inequalities. Basic notions of Optimal Transport, Wasserstein distances, conservative diffusions as flows of steepest descent for the relative entropy. Notions of finance: portfolios, arbitrage, hedging, optimization.
 
- I design the series of notes primarily for PhD students at the Georgia Institute of Technology, for those who are not familiar with martingale-related theories.
+ The series of notes are primarily for PhD students at the Georgia Institute of Technology, and especially those who are not familiar with martingale-related theories.
  
- # And of course, I got the approval from Prof. Ioannis Karatzas to share these notes to students in need.
+  And of course, I got approval from Prof. Ioannis Karatzas to share these notes with students in need.
  
- # If you have any suggestions to improve those notes, please contact me (hy2704@columbia.edu) and I welcome criticism and advice!
+  If you have any suggestions to improve those notes, please contact me (hy2704@columbia.edu) and I welcome criticism and advice!
 
- # Note-taker: Heyuan Yao
+  Note-taker: Heyuan Yao
